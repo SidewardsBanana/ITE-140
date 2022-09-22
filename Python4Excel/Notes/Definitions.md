@@ -4,4 +4,6 @@ Pandas: A Python Package Meant For Data Science/Analysis and Machine Learning.
 
 Data Sets: A Collection of Data That Can Be Accessed Individualy or In a Combination.
 
-Statistics: Collecting and Analyzing Numbered Data
+Statistics: Collecting and Analyzing Numbered Data.
+
+Time Series: A Series of Data Points Graphed, Listed, or Indexed In Time Order.
