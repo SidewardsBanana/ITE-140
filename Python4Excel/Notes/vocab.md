@@ -15,6 +15,6 @@ ORM
 SQLAlchemy
 # SQLAlchemy is a ORM that uses Python and gives you tools for working with and accessing data in a database
 
-# The Original Author is Michael Bayer
+# The Original Author of SQLAlchemy is Michael Bayer
 
 # SQLAlchemy was released February 14, 2006.
