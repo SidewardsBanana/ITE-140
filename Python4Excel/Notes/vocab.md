@@ -17,4 +17,6 @@ SQLAlchemy
 
 # The Original Author of SQLAlchemy is Michael Bayer
 
-# SQLAlchemy was released February 14, 2006.
+# SQLAlchemy was released February 14, 2006
+
+# The Latest Release Was September 6, 2022 and The Version Is 1.4.41
