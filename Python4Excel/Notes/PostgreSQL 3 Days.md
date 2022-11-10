@@ -47,3 +47,10 @@ Low maintenance
 
 # Disadvantages
 
+Not owned by one organazation
+
+Changes for speed improvment needs much more work than MySQL because PostgreSQL focuses on compatibility
+
+A lot of open source apps support MySQL but might not support PostgreSQL
+
+Slower than MySQL as of performance
