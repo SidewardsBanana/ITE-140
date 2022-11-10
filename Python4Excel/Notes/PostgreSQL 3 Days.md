@@ -40,3 +40,7 @@ write-ahead logging makes it a highley fault tolerant database
 Open Source
 
 Supports geographic objects for location-based services
+
+Don't need much training because it is easy to use
+
+Low maintenance
