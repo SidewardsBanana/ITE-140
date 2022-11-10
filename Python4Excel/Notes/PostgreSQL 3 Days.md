@@ -44,3 +44,6 @@ Supports geographic objects for location-based services
 Don't need much training because it is easy to use
 
 Low maintenance
+
+# Disadvantages
+
