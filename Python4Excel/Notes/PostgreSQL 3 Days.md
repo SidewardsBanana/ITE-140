@@ -30,3 +30,13 @@ Log based and trigger based replication SSL (Secure Sockets Layer?)
 Object-Oriented compatible
 
 ANSI-SQL2008 compatible
+
+# Advantages
+
+Can run dynamic websites and web apps
+
+write-ahead logging makes it a highley fault tolerant database
+
+Open Source
+
+Supports geographic objects for location-based services
