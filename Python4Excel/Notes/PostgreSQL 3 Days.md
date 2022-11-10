@@ -26,3 +26,7 @@ Mature server-side programming functionality
 Works with ANSI SQL standard
 
 Log based and trigger based replication SSL (Secure Sockets Layer?)
+
+Object-Oriented compatible
+
+ANSI-SQL2008 compatible
