@@ -9,3 +9,7 @@ It offers advanced data type and has features to optimize preformance
 
 # History of PostgreSQL
 
+Created by a computer science professor named Michael Stonebraker and his team
+
+Now it is one of the popular open-source databases
+
