@@ -1,9 +1,11 @@
-Jupyter Notebook: An Application That Can Be Used To Create and Share Documents That Have Live Code etc. Mainly Used For Data Science Related Things. 
+# Definitions Notes
 
-Pandas: A Python Package Meant For Data Science/Analysis and Machine Learning.
+***Jupyter Notebook*** Is An Open Source IDE That Can Be Used To Create and Share Documents That Have Live Code etc. Mainly Used For Data Science Related Things.  
 
-Data Sets: A Collection of Data That Can Be Accessed Individualy or In a Combination.
+***Pandas*** Is A Python Package Meant For Data Science/Analysis and Machine Learning.
 
-Statistics: Collecting and Analyzing Numbered Data.
+***Data Sets*** Are A Collection of Data That Can Be Accessed Individualy or In a Combination.
 
-Time Series: A Series of Data Points Graphed, Listed, or Indexed In Time Order.
+***Statistics*** Is When You Collect and Analyzing Numbered Data.
+
+***Time Series*** Is A Series of Data Points Graphed, Listed, or Indexed In Time Order.
