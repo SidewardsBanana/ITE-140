@@ -8,4 +8,4 @@
 
 ***Statistics*** Is When You Collect and Analyzing Numbered Data.
 
-***Time Series*** Is A Series of Data Points Graphed, Listed, or Indexed In Time Order.
+***Time Series*** Is A Series of Data Points Graphed, Listed, or Indexed In Time Order  
