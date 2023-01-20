@@ -1,6 +1,9 @@
-# Official Matplotlib Documentation On Pyplot
-https://matplotlib.org/stable/tutorials/introductory/pyplot.html
-# Walks You Through All Kinds Of Things You Can Do With Pyplot
+# Plotting Notes
 
-You Can Change Many Things About A Plot Like Its Shape, Type, and Color
-You Can Create A Plot Using Catagorical Data
+## Documentation
+
+[Official Matplotlib Documentation On Pyplot](https://matplotlib.org/stable/tutorials/introductory/pyplot.html)
+
+Walks You Through All Kinds Of Things You Can Do With Pyplot
+
+You Can Change Many Things About A Plot Like Its **Shape**, *Type*, and Color
