@@ -1,4 +1,5 @@
 # What Is PostgreSQL?
+
 ## Also known as postgres
 
 It is an open source database management system for database applications
@@ -7,13 +8,13 @@ Supports SQL and JSON for relational and nonrelational queries for extensibility
 
 It offers advanced data type and has features to optimize performance
 
-# History of PostgreSQL
+## History of PostgreSQL
 
 Created by a computer science professor named Michael Stonebraker and his team
 
 Now it is one of the popular open-source databases
 
-# Features
+## Features
 
 Helps people build applications
 
@@ -31,7 +32,7 @@ Object-Oriented compatible
 
 ANSI-SQL2008 compatible
 
-# Advantages
+## Advantages
 
 Can run dynamic websites and web apps
 
@@ -45,7 +46,7 @@ Don't need much training because it is easy to use
 
 Low maintenance
 
-# Disadvantages
+## Disadvantages
 
 Not owned by one organazation
 
